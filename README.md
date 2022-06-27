@@ -34,7 +34,6 @@ Using Tableau, create visualizations that show:
 ## Create a Story and Report for the Final Presentation
 ### Deliverable Requirements:
 For this part of the Challenge, you’ll create a story in Tableau and write a report that describes the key outcomes of the NYC Citibike analysis you did in the module and in Deliverable 2.
-tps://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/3.3.5.JPG?raw=true)
 
 >TABLEAU PUBLIC URL:
 
